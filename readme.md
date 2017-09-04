@@ -7,4 +7,4 @@ Session based registeration also includes Email verification update.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+It's open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
